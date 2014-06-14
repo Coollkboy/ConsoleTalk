@@ -1,4 +1,4 @@
-ConsoleTalk.php
+ConsoleTalk
 ===============
 
 Lets OPS talk as console
